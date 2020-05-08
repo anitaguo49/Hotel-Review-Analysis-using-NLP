@@ -32,4 +32,4 @@ The major challenge faced included but not limited to:
 [Powerpoint Link](https://docs.google.com/presentation/d/1Iak_j-nEEOkmIPocChHIGzL94Dr-h0wbEy9mmy0c67M/edit?usp=sharing)
 
 # Contact
-Feel free to contact me with any questions or if you are interested in contributing!
+Feel free to contact us with any questions or if you are interested in contributing!
