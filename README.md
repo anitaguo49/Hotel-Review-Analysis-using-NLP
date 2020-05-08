@@ -7,8 +7,8 @@ The purpose of this project is to classify and group most common issues in Luxur
 
 # Methods Used
 * Data Visualization 
-* Machine Learning
 * Model: Latent Dirichlet allocation
+* Machine Learning
 
 # Technologies
 * Python
