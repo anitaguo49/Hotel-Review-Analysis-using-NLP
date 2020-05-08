@@ -29,7 +29,7 @@ The major challenge faced included but not limited to:
 * Most frequent word counts sometimes repeat
 
 # Powerpoint Presentation
-[Powerpoint Link](https://docs.google.com/presentation/d/1UHbRugaFdN_b0SVsB8iLqkPvmdhLbrH1KKwEeVafnXg/edit?usp=sharing)
+[Powerpoint Link](https://docs.google.com/presentation/d/1Iak_j-nEEOkmIPocChHIGzL94Dr-h0wbEy9mmy0c67M/edit?usp=sharing)
 
 # Contact
 Feel free to contact me with any questions or if you are interested in contributing!
